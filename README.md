@@ -48,7 +48,7 @@ Osmaniye Korkut Ata Sunar
 Projeyi bilgisayarınıza klonlayın:
 
 ```bash
-git clone https://github.com/MelihSezgin/Festival-WebSitesi.git
+git clone https://github.com/MelihSezginn/music-festival-website-oku.git
 ```
 
 Ardından `index.html` dosyasını tarayıcıda açmanız yeterlidir.
