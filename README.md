@@ -34,7 +34,9 @@ bölümleri bulunmaktadır.
 ## 📷 Proje Görünümü
 
 > Ana Sayfa
-https://i.hizliresim.com/jdjafgo.png
+
+<img src="https://i.hizliresim.com/jdjafgo.png" width="auto">
+
 ```
 2025 OKÜ Müzik Festivali'ne Hoş Geldiniz
 
