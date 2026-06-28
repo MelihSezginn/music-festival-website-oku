@@ -50,6 +50,7 @@ Projeyi bilgisayarınıza klonlayın:
 ```bash
 git clone https://github.com/MelihSezginn/music-festival-website-oku.git
 ```
+veya direk dosyayı indirin
 
 Ardından `index.html` dosyasını tarayıcıda açmanız yeterlidir.
 
